@@ -1,0 +1,4 @@
+Task 5 :- 
+The  Doctype is an instruction used by web browsers to fetch what version of HTML the website is written in. It helps browsers in understanding how the document should be interpreted thus eases the rendering process. It is neither an element nor a tag. The doctype should be placed on the top of the document. It must not contain any content and does not need a closing tag.
+
+Syntex - <!DOCTYPE html>
